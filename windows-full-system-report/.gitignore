@@ -1,0 +1,9 @@
+Full_Report_*.txt
+*.log
+*.bak
+*.tmp
+*.zip
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
